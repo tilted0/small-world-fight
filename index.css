@@ -1,0 +1,34 @@
+body{
+background-color: rgb(41, 0, 71);
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 122px;
+    border: 20px solid greenyellow;
+}
+.gamename{
+    display: flex;
+    justify-content: center;
+    color:crimson;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    padding-top: 100px;
+
+}
+.gamepage{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+.gameinfo{
+    display: flex;
+    justify-content: center;
+    color:gold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    padding-top: 100px;
+}
